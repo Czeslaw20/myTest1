@@ -1,0 +1,4 @@
+weaponId,weaponName,weaponAtk,weaponCritPlus,weaponCritRate,weaponSuckPlus,weaponSuckRate,weaponFrozenRate
+1,小刀,5,0,0,0,0,0
+2,大砍刀,10,2,30,0,0,0
+3,屠龙刀,20,2,50,1,30,50
